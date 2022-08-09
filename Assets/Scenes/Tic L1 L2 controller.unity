@@ -196,7 +196,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &156671751
 Transform:
   m_ObjectHideFlags: 0
@@ -223,7 +223,7 @@ Transform:
   - {fileID: 1107075281}
   - {fileID: 1107075413}
   m_Father: {fileID: 1107075273}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &308421249
 GameObject:
@@ -474,7 +474,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &775198940
 Transform:
   m_ObjectHideFlags: 0
@@ -528,7 +528,7 @@ Transform:
   - {fileID: 1107075207}
   - {fileID: 1107075201}
   m_Father: {fileID: 1107075273}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &843151793
 GameObject:
@@ -545,7 +545,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &843151794
 Transform:
   m_ObjectHideFlags: 0
@@ -6387,7 +6387,7 @@ GameObject:
   - component: {fileID: 1104782023}
   m_Layer: 0
   m_Name: MesaLab.023
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6405,7 +6405,7 @@ GameObject:
   - component: {fileID: 1104782017}
   m_Layer: 0
   m_Name: MesaLab.024
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6423,7 +6423,7 @@ GameObject:
   - component: {fileID: 1104782075}
   m_Layer: 0
   m_Name: MesaLab.021
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6441,7 +6441,7 @@ GameObject:
   - component: {fileID: 1104782021}
   m_Layer: 0
   m_Name: MesaLab.022
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6459,7 +6459,7 @@ GameObject:
   - component: {fileID: 1104782031}
   m_Layer: 0
   m_Name: MesaLab.027
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6477,7 +6477,7 @@ GameObject:
   - component: {fileID: 1104782025}
   m_Layer: 0
   m_Name: MesaLab.028
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6495,7 +6495,7 @@ GameObject:
   - component: {fileID: 1104782019}
   m_Layer: 0
   m_Name: MesaLab.025
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6513,7 +6513,7 @@ GameObject:
   - component: {fileID: 1104782029}
   m_Layer: 0
   m_Name: MesaLab.026
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6531,7 +6531,7 @@ GameObject:
   - component: {fileID: 1104782039}
   m_Layer: 0
   m_Name: MesaLab.031
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6549,7 +6549,7 @@ GameObject:
   - component: {fileID: 1104782033}
   m_Layer: 0
   m_Name: MesaLab.032
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6567,7 +6567,7 @@ GameObject:
   - component: {fileID: 1104782027}
   m_Layer: 0
   m_Name: MesaLab.029
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6585,7 +6585,7 @@ GameObject:
   - component: {fileID: 1104782037}
   m_Layer: 0
   m_Name: MesaLab.030
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6603,7 +6603,7 @@ GameObject:
   - component: {fileID: 1104782047}
   m_Layer: 0
   m_Name: MesaLab.035
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6621,7 +6621,7 @@ GameObject:
   - component: {fileID: 1104782041}
   m_Layer: 0
   m_Name: MesaLab.036
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6639,7 +6639,7 @@ GameObject:
   - component: {fileID: 1104782035}
   m_Layer: 0
   m_Name: MesaLab.033
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6657,7 +6657,7 @@ GameObject:
   - component: {fileID: 1104782045}
   m_Layer: 0
   m_Name: MesaLab.034
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6889,7 +6889,7 @@ GameObject:
   - component: {fileID: 1104782079}
   m_Layer: 0
   m_Name: MesaLab.019
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6907,7 +6907,7 @@ GameObject:
   - component: {fileID: 1104782073}
   m_Layer: 0
   m_Name: MesaLab.020
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6943,7 +6943,7 @@ GameObject:
   - component: {fileID: 1104782077}
   m_Layer: 0
   m_Name: MesaLab.018
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8141,7 +8141,7 @@ GameObject:
   - component: {fileID: 1104781991}
   m_Layer: 0
   m_Name: MesaLab.039
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8177,7 +8177,7 @@ GameObject:
   - component: {fileID: 1104782043}
   m_Layer: 0
   m_Name: MesaLab.037
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8195,7 +8195,7 @@ GameObject:
   - component: {fileID: 1104781989}
   m_Layer: 0
   m_Name: MesaLab.038
-  m_TagString: Untagged
+  m_TagString: mesa
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8229,6 +8229,7 @@ GameObject:
   - component: {fileID: 1107075211}
   - component: {fileID: 1103683945}
   - component: {fileID: 1104781993}
+  - component: {fileID: 1106984300}
   m_Layer: 0
   m_Name: Net.001
   m_TagString: Untagged
@@ -8236,6 +8237,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &1106984300
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106984299}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.34640032, y: 0.20923112, z: 0.3729637}
+  m_Center: {x: -0.093165666, y: 0.091465555, z: 0.07729255}
 --- !u!1 &1106984301
 GameObject:
   m_ObjectHideFlags: 0
@@ -9231,13 +9245,13 @@ Transform:
   - {fileID: 1541210866}
   - {fileID: 1345199851}
   - {fileID: 843151794}
-  - {fileID: 1488907644}
   - {fileID: 156671751}
   - {fileID: 775198940}
+  - {fileID: 1488907644}
   - {fileID: 1867559505}
   - {fileID: 416446174}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1107075275
 Transform:
@@ -10629,7 +10643,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1345199850
 GameObject:
@@ -10646,7 +10660,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1345199851
 Transform:
   m_ObjectHideFlags: 0
@@ -10704,9 +10718,9 @@ Transform:
   - {fileID: 1107075425}
   - {fileID: 1107075427}
   m_Father: {fileID: 1107075273}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1507141610
+--- !u!1 &1528137149
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10714,79 +10728,40 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1507141613}
-  - component: {fileID: 1507141612}
-  - component: {fileID: 1507141611}
+  - component: {fileID: 1528137151}
+  - component: {fileID: 1528137150}
   m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
+  m_Name: '[ObjectsIterator]'
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1507141611
-AudioListener:
+--- !u!114 &1528137150
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1507141610}
+  m_GameObject: {fileID: 1528137149}
   m_Enabled: 1
---- !u!20 &1507141612
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1507141610}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_GateFitMode: 2
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &1507141613
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18405a5bd16169b43888a3f4e0b96f9e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1528137151
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1507141610}
+  m_GameObject: {fileID: 1528137149}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalPosition: {x: -14.3633795, y: 1.0046151, z: 4.509262}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1541210865
 GameObject:
@@ -10803,7 +10778,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1541210866
 Transform:
   m_ObjectHideFlags: 0
@@ -11155,7 +11130,7 @@ PrefabInstance:
     - target: {fileID: 1895376494061076151, guid: 75de62f9478685d4b94ac9d5b3c8e86e,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1895376494061076151, guid: 75de62f9478685d4b94ac9d5b3c8e86e,
         type: 3}
