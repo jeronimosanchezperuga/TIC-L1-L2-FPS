@@ -5,6 +5,7 @@ using UnityEngine;
 public class InstanciarObjetoAlAzar : MonoBehaviour
 {
     [SerializeField] GameObject[] objetosAInstanciar;
+    bool puedeInstanciar = true;
 
     // Start is called before the first frame update
     void Start()
@@ -17,7 +18,11 @@ public class InstanciarObjetoAlAzar : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.I))
         {
-            InstanciarObjeto(objetosAInstanciar[Random.Range(0,objetosAInstanciar.Length)]);
+            if (puedeInstanciar)
+            {
+                InstanciarObjeto(objetosAInstanciar[Random.Range(0, objetosAInstanciar.Length)]);
+            }
+            
         }
     }
 
@@ -26,5 +31,13 @@ public class InstanciarObjetoAlAzar : MonoBehaviour
         objeto.AddComponent<BoxCollider>();
         objeto.AddComponent<Rigidbody>();
         Instantiate(objeto,transform.position,transform.rotation);
+        StartCoroutine(EsperarSegundos(1));
+    }
+
+    IEnumerator EsperarSegundos(float t)
+    {
+        puedeInstanciar = false;
+        yield return new WaitForSeconds(t);
+        puedeInstanciar = true;
     }
 }
