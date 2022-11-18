@@ -18,6 +18,9 @@ public class AgentScript : MonoBehaviour
     void Update()
     {
         agent.destination = destinationTransform.position;
-    
+
     }
+
+    //hace que cuando el personaje este dentro del trigger "TriggerL1" te comience a seguir
+    
 }

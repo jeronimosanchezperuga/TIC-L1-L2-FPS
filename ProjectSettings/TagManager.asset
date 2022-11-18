@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Silla
   - Computadora
+  - NPC
+  - Muere
   layers:
   - Default
   - TransparentFX
